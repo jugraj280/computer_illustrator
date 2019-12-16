@@ -1,0 +1,30 @@
+*{box-sizing: border-box}
+  
+  .a{
+  	float: left;
+  	width: 100%;
+  	text-align: center;
+  }
+  .c{
+
+  	width: 100%;
+  	height: 100vh;
+  	padding-top: 10rem;
+
+  }
+  button{
+  	padding: 20px 120px;
+  	background: #007bff;
+  	color: white;
+  }
+  .email,.password{
+  	width: 270px;
+  	height: 47px;
+  	padding: 9px
+  }
+  .checkbox{
+  	padding-top: 10px;
+  }
+  .form-control{
+  	padding: 20px;
+  }
